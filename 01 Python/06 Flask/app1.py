@@ -42,6 +42,4 @@ if __name__ == "__main__":
 - The `@app.route()` decorator is a convenient way to link functions to specific URLs.
 - The `app.run()` method starts the development server, making your application accessible in a web browser.
 
-I hope this explanation is helpful! Feel free to ask if you have any further questions.
-
 """
