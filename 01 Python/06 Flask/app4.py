@@ -25,5 +25,11 @@ def results(marks):
     else:
         return redirect(url_for('success', score=marks))
 
+#HTML result
+@app4.route("/html")
+def html():
+    return "<html><body><h1><b>Hi Vithu from HTML</b></h1></body></html>"
+
+
 if __name__ == "__main__":
     app4.run(debug=True)
