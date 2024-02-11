@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Problem:
 Suppose you are given the following data representing the sales performance of a company in three different regions over four quarters
 
@@ -21,4 +22,29 @@ Your task is to answer the following questions:
 2) Determine the quarter with the highest total sales.
 3) Find the region with the highest sales in a specific quarter (e.g., Q2).
 4) Calculate the average sales for each quarter.
+=======
+Problem:
+Suppose you are given the following data representing the sales performance of a company in three different regions over four quarters
+
+import numpy as np
+
+# Sales data (in millions)
+sales_data = np.array([
+    [12, 15, 18, 20],
+    [8, 10, 12, 15],
+    [10, 13, 16, 18]
+])
+
+# Regions and Quarters
+regions = ['North', 'South', 'East', 'West']
+quarters = ['Q1', 'Q2', 'Q3', 'Q4']
+
+
+Your task is to answer the following questions:
+
+1) Calculate the total sales for each region.
+2) Determine the quarter with the highest total sales.
+3) Find the region with the highest sales in a specific quarter (e.g., Q2).
+4) Calculate the average sales for each quarter.
+>>>>>>> ee0d962 (2024)
 5) Normalize the sales data such that each region's sales are expressed as a percentage of the total sales in that quarter.
