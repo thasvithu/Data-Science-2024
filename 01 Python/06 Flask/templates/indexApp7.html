@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For Flask 2024.01.18</title>
+    <!--<link rel="stylesheet" href="../static/style.css">-->
+    <link rel="stylesheet" href="{{ url_for("static", filename = "../static/style.css")}}">
+</head>
+<body>
+    <h1>Shall we Learn a new thing in flask </h1>
+
+    <h2>HTML Forms</h2>
+    <form action="/submit" method="post">
+        <label for="science">Science : </label><br>
+        <input type="text" name="science" id="science" value="0"><br><br>
+        
+        <label for="maths">Maths : </label><br>
+        <input type="text" name="maths" id="maths" value="0"><br><br>
+
+        <label for="c">C : </label><br>
+        <input type="text" name="c" id="c" value="0"><br><br>
+
+        <label for="datascience">Data Science : </label><br>
+        <input type="text" name="datascience" id="datascience" value="0"><br><br>
+
+        <input type="submit" value="submit">
+    </form>
+    <p>If you click "submit" button, the form data will be sent to a page called "/submit"</p>
+
+    <script src="{{ url_for("static", filename="../static/script.js") }}"></script>
+</body>
+</html>

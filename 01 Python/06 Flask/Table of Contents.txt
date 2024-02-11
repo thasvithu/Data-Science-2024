@@ -1,0 +1,19 @@
+01 Introduction To Flask Web Framework - app1.py
+
+02 Setting VSCode IDE To Learn Flask Web Framework For Machine Learning - app2.py
+
+03 Understanding A Sample Flask Web Application Skeleton - app3.py
+
+04 Building Url Dynamically In Flask Web Framework - app4.py
+
+05 Integrating HTML With FLASK Web Framework With HTTP VERBS(Get And POST) - app5.py
+
+06 Understanding Jinja2 Template Engine In Flask Web Framework - app6.py
+
+07 Integrating CSS and Javascript in Flask Web Framework - app7.py
+
+08 Video Streaming Using Webcam In Flask Web Framework - app8.py
+
+09 OpenCV Face And Eye Detection In Flask Web Framework - app9.py
+
+10 Face Recognition Project In Flask Web Framework- Recognize Different Faces Easily - app10.py
