@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # -*- coding: utf-8 -*-
 """
 Created on Sat Feb 10 21:37:14 2024
@@ -84,6 +85,8 @@ rows, cols = twod_arr.shape
 for i in range(rows):
     for j in range(cols):
 =======
+=======
+>>>>>>> ee0d962a7c24848a99a0023400054cf971a10411
 # -*- coding: utf-8 -*-
 """
 Created on Sat Feb 10 21:37:14 2024
@@ -168,5 +171,8 @@ rows, cols = twod_arr.shape
 
 for i in range(rows):
     for j in range(cols):
+<<<<<<< HEAD
 >>>>>>> ee0d962 (2024)
+=======
+>>>>>>> ee0d962a7c24848a99a0023400054cf971a10411
         print(twod_arr[i, j])

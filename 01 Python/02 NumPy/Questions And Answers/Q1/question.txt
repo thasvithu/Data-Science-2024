@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Problem:
 Suppose you are given the following data representing the sales performance of a company in three different regions over four quarters
 
@@ -23,6 +24,8 @@ Your task is to answer the following questions:
 3) Find the region with the highest sales in a specific quarter (e.g., Q2).
 4) Calculate the average sales for each quarter.
 =======
+=======
+>>>>>>> ee0d962a7c24848a99a0023400054cf971a10411
 Problem:
 Suppose you are given the following data representing the sales performance of a company in three different regions over four quarters
 
@@ -46,5 +49,8 @@ Your task is to answer the following questions:
 2) Determine the quarter with the highest total sales.
 3) Find the region with the highest sales in a specific quarter (e.g., Q2).
 4) Calculate the average sales for each quarter.
+<<<<<<< HEAD
 >>>>>>> ee0d962 (2024)
+=======
+>>>>>>> ee0d962a7c24848a99a0023400054cf971a10411
 5) Normalize the sales data such that each region's sales are expressed as a percentage of the total sales in that quarter.
