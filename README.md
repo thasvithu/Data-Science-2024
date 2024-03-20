@@ -1,4 +1,4 @@
-# Data-Science-2024
+# Data-Science 2024
 
 ## 01 Python
 ## 02 Statistics
